@@ -1,0 +1,27 @@
+{
+  "name": "hw00",
+  "version": "1.0.0",
+  "description": "A basic hw repo for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha .coverage -R json > .coverage/test.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1125f16/hw00.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "abelsan <abel@mit.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1125f16/hw00/issues"
+  },
+  "homepage": "https://github.com/1125f16/hw00#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
