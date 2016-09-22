@@ -1,2 +1,2 @@
 # hw00
-Testing Homework Repository
+Testing Homework Repository - use for practice
